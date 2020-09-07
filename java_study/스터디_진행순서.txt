@@ -9,4 +9,5 @@
 2. 스터디 목표: 
 자바 자료구조 공부 + 문제풀이와 서로의 코드 공유 및 상호 발전
 3. git_hub: https://github.com/java-study0208/java_stduy.git
-4. 문제 풀이 완료시 github에 masterbranch에 push해주세요
+4. 문제 풀이 완료시 github,masterbranch,
+javastudy/'스터디진행날짜'/'자기이름 디렉토리'에 push해주세요
